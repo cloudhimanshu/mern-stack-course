@@ -1,4 +1,13 @@
 body{
-    background-color: pink;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(255, 176, 6);
+}
+td{
+    border: 2px solid;
+}
+
+th{
+    border: 2px solid;
+    color: rgb(255, 10, 10);
+    text-decoration: solid;
 }
