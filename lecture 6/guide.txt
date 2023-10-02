@@ -1,0 +1,34 @@
+Core web vitals is useful thing for search engine optimization without it search engine may not be get relevent information as we all the for ranking purpose seach engines do need to gather some information before it starts displaying your website to the search result for this google lighthouse and core web vitals come into effect 
+for example amazon.in if we open amazonfor shopping  purposes then amazon wants to open very fast because if they dont do it users will not stick to the website they may leave the website due to low attention rates 
+to tackle this situation it is the responsibility of google (all search engines) to show or display those websites in search results which are 
+1. live 
+2. search friendly
+3. fast loading speeds and time
+4. valueable information 
+5. and many other minor details like search engines optimization should be done for the websites 
+without seo and any other aspect you can actually rank your website to google search 
+
+there are mainlytwo ways to do search engine optimization 
+1.  white hat seo
+2. black hat seo
+both are legal this is not like cyber security where web have 3 categories like black hat white hat and grey hat hackers mainly 4(red hat hackers also exists)
+
+but its not preferable to do black hat seo as it involve keyword stuffing which is used for search engine manipulation
+
+one more thing to consider if for example website a has shoes content which is good enough to be shown on google and website b have similar content if both have same content then the core web vitals of the site will be consider for the ranking purposes like speeds of the links pages size of the content content quality , loading time and cls comilative layout shifting 
+
+core web vitals
+
+good content 
+
+
+
+cls - comulative layout shift it is used to check weather or not layout shifting while clicking or some suspicios website error for example some people want to generate more income lets take shoes example if you hhave a shoes website you most probably wanted your shoes to sell and you had a idea that if i manipulate my website for only buy button like order button not want to order but when pressing on not want to order it ordered these type of websites dont gets rank on google search engines 
+
+lcp largest contentful pages - the most important element on your page how much time it generally takes to load generally according to google it should load in max  time 2.5 seconds if not loading then your site will not consider for ranking
+
+
+fid first input delay -  if user clicks or input something on your website then hhow much time it took to process . in 100 millisecond it should load . 
+
+
+
