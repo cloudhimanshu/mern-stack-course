@@ -1,3 +1,6 @@
+What are Block Elements ?
+block elements required full width of the screen
+
 Block Elements (Most Commonly Used First)
 
 <div>: A generic container for flow content.
@@ -28,7 +31,8 @@ Block Elements (Most Commonly Used First)
 <hr>: A thematic break or a horizontal rule.
 <tfoot>: Footer of a table.
 
-
+Question: What are inline elemets ?
+Answer : inline elements do not start on a new linew and only take as much with as necessary!
 
 Inline Elements (Most Commonly Used First)
 <a>: Anchor or hyperlink.
